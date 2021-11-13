@@ -62,11 +62,11 @@
     display: flex;
     gap: 15px;
     padding-left: 77px;
-    padding-top: 20px;
+    padding-top: 13px;
   }
   
   .lg {
-    width: 35px;
+   height: 40px;
   }
   #bottomDiv {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
